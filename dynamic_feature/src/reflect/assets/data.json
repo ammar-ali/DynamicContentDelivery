@@ -1,0 +1,9 @@
+{
+  "header": {
+    "status": "sucess"
+  },
+  "body": {
+    "title": "Dynamic content delivery",
+    "message": "Content parsing successfully"
+  }
+}
